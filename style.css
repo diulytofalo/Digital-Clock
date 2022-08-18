@@ -74,13 +74,14 @@ h1{
 
    h1{
         margin-bottom: 15px;
+        margin-top: 0px;
         font-size: 10px;
         letter-spacing: 3px;
    }
 
    .clock span{
-        height: 120px;
-        width: 150px;
+        height: 110px;
+        width: 135px;
         font-size: 85px;
    }
 
