@@ -78,14 +78,19 @@ h1{
    }
 
    .clock span{
-        height: 150px;
-        width: 185px;
+        height: 140px;
+        width: 175px;
         font-size: 85px;
+   }
+
+   .clock .text{
+        height: 25px;
    }
 
     .clock #ampm{
         position: unset;
         width: auto;
+        height: 25px;
     }
 
 }
