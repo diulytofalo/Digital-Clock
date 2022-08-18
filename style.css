@@ -64,6 +64,11 @@ h1{
 
 @media (max-width: 620px){
    
+    body{
+        margin: 0px;
+        padding: 0px;
+    }
+
     .clock{
         display: block;
     }
@@ -75,14 +80,15 @@ h1{
    h1{
         margin-bottom: 15px;
         margin-top: 0px;
+        padding: 0px;
         font-size: 10px;
         letter-spacing: 3px;
    }
 
    .clock span{
-        height: 110px;
-        width: 135px;
-        font-size: 85px;
+        height: 125px;
+        width: 145px;
+        font-size: 95px;
    }
 
    .clock .text{
