@@ -1,4 +1,4 @@
 # Digital-Clock
 Um relógio digital simples que sincroniza com o horário do computador.
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/106192001/185218271-49130ba3-9bda-4da0-80a0-f52441fddf12.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/106192001/185508295-a711719d-26fc-4722-9288-27fa5ccfd83b.png">
