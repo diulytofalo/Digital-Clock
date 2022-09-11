@@ -1,8 +1,8 @@
 # Digital Clock
 
-Um relógio digital simples que atualiza conforme o horário do computador, celular ou tablet.
+Um relógio digital simples que atualiza conforme o horário do computador, celular ou tablet. 
 
-### O que aprendi:
+## O que aprendi:
 
 Procurando por um projeto que colocasse em prática meus singelos conhecimentos nas linguagens HTML e CSS obtidos até o momento, e que incorporasse algumas funcionalidades básicas em JavaScipt, encontrei na internet um canal incrível que ensina com detalhes os mais variados projetos do nível iniciante ao avançado. O canal "JavaScript King" / "Code With Sahand" disponibiliza tutoriais objetivos e divertidos de fazer, entre os quais está o relógio digital. Com esse projeto, aprendi a:
 
@@ -13,10 +13,10 @@ Procurando por um projeto que colocasse em prática meus singelos conhecimentos 
 - Chamar funções de data e hora, com "new Date()";
 - Condicionar declarações usando "if".
 
-### Visualização:
+## Visualização:
 
 <img height="340" alt="image" src="https://user-images.githubusercontent.com/106192001/185527762-6a921803-c0ac-4ddd-8eca-119f5682c37a.png"> <img height="340" alt="image" src="https://user-images.githubusercontent.com/106192001/185527646-13ef9668-0c32-4758-839e-72e01bc42505.png">
 
-### Créditos:
+## Créditos:
 
 - Sahand Ghavidel - https://www.youtube.com/c/JavaScriptKing/featured
